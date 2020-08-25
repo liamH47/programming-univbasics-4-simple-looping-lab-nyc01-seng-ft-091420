@@ -1,7 +1,7 @@
 def loop_message_five_times
   count = 0 
   while count < 5
-  puts "i hope this works"
+  puts string 
   count += 1 
  end
 end
