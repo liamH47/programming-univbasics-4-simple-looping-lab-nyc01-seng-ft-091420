@@ -14,10 +14,3 @@ def output_array(array)
   puts array
 end
 
-def return_string_array(array)
-  count = 0 
-  while count < array.length do array |count| .to_s
-  count += 1 
-end
-  new_array
-end
